@@ -1,0 +1,8 @@
+
+# somethings are not meant for sharing
+./study
+./notes
+
+# ignore all marimo related files
+**/__marimo__/
+
